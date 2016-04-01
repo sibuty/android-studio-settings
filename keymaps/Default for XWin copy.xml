@@ -1,0 +1,8 @@
+<keymap version="1" name="Default for XWin copy" parent="Default for XWin">
+  <action id="NextIdentifierReloaded">
+    <keyboard-shortcut first-keystroke="alt s" />
+  </action>
+  <action id="PreviousIdentifierReloaded">
+    <keyboard-shortcut first-keystroke="alt w" />
+  </action>
+</keymap>
