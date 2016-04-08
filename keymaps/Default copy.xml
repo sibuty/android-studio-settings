@@ -1,0 +1,10 @@
+<keymap version="1" name="Default copy" parent="$default">
+  <action id="NextIdentifierReloaded">
+    <keyboard-shortcut first-keystroke="shift alt w" />
+  </action>
+  <action id="PreviousIdentifierReloaded">
+    <keyboard-shortcut first-keystroke="shift alt s" />
+  </action>
+  <action id="context.save" />
+  <action id="tasks.close" />
+</keymap>
