@@ -3,6 +3,7 @@
     <option name="customScope" value="Project 'madi'" />
     <option name="defaultScopeName" value="Project 'madi'" />
     <option name="SEARCH_SCOPE" value="Project 'madi'" />
+    <option name="FILE_MASK" value="*.*" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*.html</mask>
