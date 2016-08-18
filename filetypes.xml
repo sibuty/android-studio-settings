@@ -12,7 +12,9 @@
       <mapping pattern="debug" type="PLAIN_TEXT" />
       <mapping pattern="config" type="PLAIN_TEXT" />
       <mapping pattern="build_debug" type="PLAIN_TEXT" />
+      <mapping ext="so" type="PLAIN_TEXT" />
       <mapping ext="sqlite" type="PLAIN_TEXT" />
+      <removed_mapping ext="so" type="UNKNOWN" />
     </extensionMap>
   </component>
 </application>
