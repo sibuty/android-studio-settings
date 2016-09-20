@@ -24,12 +24,6 @@
       <path value="VCS Actions" />
       <option name="myInitialPosition" value="-1" />
     </group>
-    <group seperator="true" action_type="-1" position="2">
-      <path value="root" />
-      <path value="Main Toolbar" />
-      <path value="Android.MainToolBarActionGroup" />
-      <option name="myInitialPosition" value="-1" />
-    </group>
     <group value="CheckinProject" is_action="true" action_type="-1" position="1">
       <path value="root" />
       <path value="Main Toolbar" />
@@ -113,12 +107,6 @@
       <path value="VCS Actions" />
       <option name="myInitialPosition" value="-1" />
     </group>
-    <group seperator="true" action_type="1" position="3">
-      <path value="root" />
-      <path value="Main Toolbar" />
-      <path value="Android.MainToolBarActionGroup" />
-      <option name="myInitialPosition" value="-1" />
-    </group>
     <group value="Git.Fetch" is_action="true" action_type="1" position="4">
       <path value="root" />
       <path value="Main Toolbar" />
@@ -140,7 +128,12 @@
       <path value="VCS Actions" />
       <option name="myInitialPosition" value="-1" />
     </group>
-    <group value="Android.MainToolBarActionGroup" is_group="true" action_type="1" position="19">
+    <group value="ShowSettings" is_action="true" action_type="1" position="17">
+      <path value="root" />
+      <path value="Main Toolbar" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="Android.MainToolBarActionGroup" is_group="true" action_type="1" position="20">
       <path value="root" />
       <path value="Main Toolbar" />
       <option name="myInitialPosition" value="-1" />
