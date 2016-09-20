@@ -46,7 +46,7 @@
   <attributes>
     <option name="ABSTRACT_CLASS_NAME_ATTRIBUTES">
       <value>
-        <option name="FOREGROUND" value="96" />
+        <option name="FOREGROUND" value="4896ff" />
       </value>
     </option>
     <option name="ABSTRACT_METHOD_ATTRIBUTES">
@@ -67,7 +67,7 @@
     </option>
     <option name="ANONYMOUS_CLASS_NAME_ATTRIBUTES">
       <value>
-        <option name="FOREGROUND" value="96" />
+        <option name="FOREGROUND" value="4896ff" />
       </value>
     </option>
     <option name="BAD_CHARACTER">
