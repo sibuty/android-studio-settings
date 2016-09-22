@@ -9,14 +9,14 @@
         </expanded-state>
         <selected-state>
           <State>
-            <id>Abstraction issues</id>
+            <id>Android</id>
           </State>
         </selected-state>
       </profile-state>
     </entry>
   </component>
   <component name="CodeStyleSchemesUIConfiguration">
-    <option name="RECENT_IMPORT_FILE_LOCATION" value="file:$USER_HOME$/.IdeaIC13/config/codestyles/Altarix_code_styles.xml" />
+    <option name="RECENT_IMPORT_FILE_LOCATION" value="file:$USER_HOME$/black_hole/MARM 1.5 the best.xml" />
   </component>
   <component name="CvsApplicationLevelConfiguration">
     <option name="EXT_CONFIGURATION">
@@ -65,55 +65,6 @@
     <option name="DO_OUTPUT" value="false" />
     <option name="SEND_ENVIRONMENT_VARIABLES_TO_SERVER" value="false" />
     <option name="SHOW_PATH" value="true" />
-  </component>
-  <component name="DebuggerSettings">
-    <option name="TRACING_FILTERS_ENABLED" value="true" />
-    <option name="FORCE_CLASSIC_VM" value="true" />
-    <option name="SKIP_SYNTHETIC_METHODS" value="true" />
-    <option name="SKIP_CLASSLOADERS" value="true" />
-    <option name="EVALUATION_DIALOG_TYPE" value="EvaluateFragment" />
-    <option name="RUN_HOTSWAP_AFTER_COMPILE" value="RunHotswapAsk" />
-    <option name="COMPILE_BEFORE_HOTSWAP" value="true" />
-    <filter>
-      <option name="PATTERN" value="com.sun.*" />
-      <option name="ENABLED" value="true" />
-    </filter>
-    <filter>
-      <option name="PATTERN" value="java.*" />
-      <option name="ENABLED" value="true" />
-    </filter>
-    <filter>
-      <option name="PATTERN" value="javax.*" />
-      <option name="ENABLED" value="true" />
-    </filter>
-    <filter>
-      <option name="PATTERN" value="org.omg.*" />
-      <option name="ENABLED" value="true" />
-    </filter>
-    <filter>
-      <option name="PATTERN" value="sun.*" />
-      <option name="ENABLED" value="true" />
-    </filter>
-    <filter>
-      <option name="PATTERN" value="junit.*" />
-      <option name="ENABLED" value="true" />
-    </filter>
-    <filter>
-      <option name="PATTERN" value="com.intellij.rt.*" />
-      <option name="ENABLED" value="true" />
-    </filter>
-    <filter>
-      <option name="PATTERN" value="com.yourkit.runtime.*" />
-      <option name="ENABLED" value="true" />
-    </filter>
-    <filter>
-      <option name="PATTERN" value="com.springsource.loaded.*" />
-      <option name="ENABLED" value="true" />
-    </filter>
-    <filter>
-      <option name="PATTERN" value="org.springsource.loaded.*" />
-      <option name="ENABLED" value="true" />
-    </filter>
   </component>
   <component name="ErrorReportConfigurable">
     <option name="ITN_LOGIN" value="" />
