@@ -424,6 +424,18 @@
         <option name="FOREGROUND" value="cc7832" />
       </value>
     </option>
+    <option name="HTML_ATTRIBUTE_NAME">
+      <value>
+        <option name="FOREGROUND" value="4896ff" />
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="HTML_ENTITY_REFERENCE">
+      <value>
+        <option name="FOREGROUND" value="48ff96" />
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
     <option name="HYPERLINK_ATTRIBUTES">
       <value>
         <option name="FOREGROUND" value="287bde" />
