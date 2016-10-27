@@ -7,12 +7,13 @@
     </extensionMap>
     <setting name="fileTypeChangedCounter" value="1" />
   </component>
-  <component name="FileTypeManager" version="16">
+  <component name="FileTypeManager" version="17">
     <extensionMap>
+      <mapping pattern="build_debug" type="PLAIN_TEXT" />
       <mapping pattern="debug" type="PLAIN_TEXT" />
       <mapping pattern="config" type="PLAIN_TEXT" />
-      <mapping pattern="build_debug" type="PLAIN_TEXT" />
       <mapping ext="so" type="PLAIN_TEXT" />
+      <mapping ext="cfg" type="PLAIN_TEXT" />
       <mapping ext="sqlite" type="PLAIN_TEXT" />
       <removed_mapping ext="so" type="UNKNOWN" />
     </extensionMap>
