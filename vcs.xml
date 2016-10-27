@@ -114,6 +114,10 @@
           <option name="url" value="https://github.com/3DI70R/Datatree.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="ssh://git@party.altarix.ru:2222/gibdd_2016.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="C:\_projects\StudioProjects" />
