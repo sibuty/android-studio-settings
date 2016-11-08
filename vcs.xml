@@ -122,9 +122,13 @@
           <option name="url" value="https://sibuty@bitbucket.org/sibuty/tacticaltasks.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/Reakleases/School-Softdesign.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="C:\_projects\StudioProjects" />
+    <option name="cloneParentDir" value="$USER_HOME$/projects" />
   </component>
   <component name="VcsApplicationSettings">
     <option name="PATCH_STORAGE_LOCATION" value="C:\Users\Игорь\Desktop" />
