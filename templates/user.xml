@@ -15,7 +15,6 @@
       <option name="JAVA_COMMENT" value="true" />
       <option name="JAVA_STRING" value="true" />
       <option name="COMPLETION" value="true" />
-      <option name="Bash" value="false" />
       <option name="GROOVY" value="false" />
       <option name="GROOVY_EXPRESSION" value="false" />
       <option name="GROOVY_STATEMENT" value="false" />
