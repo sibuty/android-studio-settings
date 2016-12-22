@@ -138,6 +138,14 @@
           <option name="url" value="ssh://git@party.altarix.ru:2222/madi-2016" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="ssh://git@party.altarix.ru:2222/dtu_core.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="ssh://git@party.altarix.ru:2222/dtu-mobile-android.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="$USER_HOME$/projects" />
