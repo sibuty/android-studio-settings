@@ -1,6 +1,6 @@
 <application>
   <component name="com.intellij.ide.ui.customization.CustomActionsSchema">
-    <group value="HelpTopics" is_action="true" action_type="-1" position="21">
+    <group value="HelpTopics" is_action="true" action_type="-1" position="20">
       <path value="root" />
       <path value="Main Toolbar" />
       <option name="myInitialPosition" value="-1" />
