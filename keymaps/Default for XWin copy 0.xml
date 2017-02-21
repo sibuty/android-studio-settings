@@ -1,4 +1,7 @@
 <keymap version="1" name="Default for XWin copy 0" parent="Default for XWin">
+  <action id="Annotate">
+    <keyboard-shortcut first-keystroke="shift ctrl a" />
+  </action>
   <action id="AutoIndentLines" />
   <action id="CodeInspection.OnEditor" />
   <action id="EditorKillRegion">
@@ -10,6 +13,7 @@
   <action id="Git.Branches">
     <keyboard-shortcut first-keystroke="ctrl b" />
   </action>
+  <action id="GotoAction" />
   <action id="GotoDeclaration">
     <mouse-shortcut keystroke="control button1" />
   </action>
