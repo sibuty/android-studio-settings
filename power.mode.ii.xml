@@ -11,7 +11,7 @@
     <option name="redFrom" value="76" />
     <option name="redTo" value="76" />
     <option name="shakeRange" value="2" />
-    <option name="soundsFolder" value="$USER_HOME$" />
+    <option name="soundsFolder" value="C:\Users\Игорь" />
     <option name="sparkLife" value="5000" />
     <option name="sparkSize" value="5" />
     <option name="sparkVelocityFactor" value="5.07" />
