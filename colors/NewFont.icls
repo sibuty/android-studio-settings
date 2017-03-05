@@ -20,7 +20,6 @@
     <option name="FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_PROPERTY_CONFLICTS" value="d5756c" />
     <option name="FILESTATUS_MERGED" value="9876aa" />
     <option name="FILESTATUS_MODIFIED" value="6897bb" />
-    <option name="FILESTATUS_NOT_CHANGED" value="" />
     <option name="FILESTATUS_NOT_CHANGED_IMMEDIATE" value="6897bb" />
     <option name="FILESTATUS_NOT_CHANGED_RECURSIVE" value="6897bb" />
     <option name="FILESTATUS_UNKNOWN" value="d1675a" />
@@ -41,6 +40,11 @@
     <option name="SELECTION_BACKGROUND" value="214283" />
     <option name="SELECTION_FOREGROUND" value="" />
     <option name="TEARLINE_COLOR" value="555555" />
+    <option name="VCS_ANNOTATIONS_COLOR_1" value="464c43" />
+    <option name="VCS_ANNOTATIONS_COLOR_2" value="444342" />
+    <option name="VCS_ANNOTATIONS_COLOR_3" value="41444a" />
+    <option name="VCS_ANNOTATIONS_COLOR_4" value="484248" />
+    <option name="VCS_ANNOTATIONS_COLOR_5" value="4c393a" />
     <option name="WHITESPACES" value="505050" />
   </colors>
   <attributes>
