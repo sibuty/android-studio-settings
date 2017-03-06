@@ -2,6 +2,7 @@
   <component name="PowerModeII">
     <option name="blueFrom" value="76" />
     <option name="blueTo" value="76" />
+    <option name="flameLife" value="2001" />
     <option name="frameRate" value="60" />
     <option name="gravityFactor" value="20.27" />
     <option name="greenFrom" value="255" />
@@ -12,7 +13,7 @@
     <option name="redFrom" value="76" />
     <option name="redTo" value="76" />
     <option name="shakeRange" value="2" />
-    <option name="soundsFolder" value="C:\Users\Игорь" />
+    <option name="soundsFolder" value="$USER_HOME$/C:\Users\Игорь" />
     <option name="sparkLife" value="5000" />
     <option name="sparkSize" value="5" />
     <option name="sparkVelocityFactor" value="5.07" />
