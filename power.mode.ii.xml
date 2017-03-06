@@ -7,6 +7,7 @@
     <option name="greenFrom" value="255" />
     <option name="isBamEnabled" value="false" />
     <option name="isCaretAction" value="false" />
+    <option name="isPowerIndicatorEnabled" value="false" />
     <option name="maxFlameSize" value="50" />
     <option name="redFrom" value="76" />
     <option name="redTo" value="76" />
