@@ -46,6 +46,7 @@
     <option name="VCS_ANNOTATIONS_COLOR_4" value="484248" />
     <option name="VCS_ANNOTATIONS_COLOR_5" value="4c393a" />
     <option name="WHITESPACES" value="505050" />
+    <option name="WHITESPACES_MODIFIED_LINES_COLOR" value="4c4638" />
   </colors>
   <attributes>
     <option name="ABSTRACT_CLASS_NAME_ATTRIBUTES">
