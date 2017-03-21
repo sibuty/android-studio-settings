@@ -831,5 +831,8 @@
         <option name="FOREGROUND" value="e8bf6a" />
       </value>
     </option>
+    <option name="XML_TAG">
+      <value />
+    </option>
   </attributes>
 </scheme>
