@@ -1,7 +1,7 @@
 <templateSet group="AndroidLog">
-  <template name="==" value="============= $TEXT$ $palochkiEND$&#10;" description="for region" toReformat="false" toShortenFQNames="true">
+  <template name="==" value="============= $TEXT$ $palochkiEND$" description="for region" toReformat="false" toShortenFQNames="true">
     <variable name="TEXT" expression="" defaultValue="" alwaysStopAt="true" />
-    <variable name="palochkiEND" expression="groovyScript(&quot;int aa = _1.length();   int bb = 72 - (aa);   String part = '';   for (int i = 0; i &lt; bb; i++) {     part+='='   } ;  return part;&quot;,TEXT)" defaultValue="" alwaysStopAt="false" />
+    <variable name="palochkiEND" expression="groovyScript(&quot;int aa = _1.length();   int bb = 74 - (aa);   String part = '';   for (int i = 0; i &lt; bb; i++) {     part+='='   } ;  return part;&quot;,TEXT)" defaultValue="" alwaysStopAt="false" />
     <context>
       <option name="JAVA_CODE" value="true" />
     </context>
