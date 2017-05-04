@@ -11,7 +11,9 @@
   <action id="Git.Branches">
     <keyboard-shortcut first-keystroke="ctrl b" />
   </action>
-  <action id="GotoAction" />
+  <action id="GotoAction">
+    <keyboard-shortcut first-keystroke="shift ctrl alt a" />
+  </action>
   <action id="GotoDeclaration">
     <mouse-shortcut keystroke="control button1" />
   </action>
@@ -22,6 +24,9 @@
     <keyboard-shortcut first-keystroke="ctrl alt w" />
   </action>
   <action id="ShowSettings" />
+  <action id="SurroundWith">
+    <keyboard-shortcut first-keystroke="ctrl comma" />
+  </action>
   <action id="SwitchApply">
     <keyboard-shortcut first-keystroke="shift alt enter" />
   </action>
