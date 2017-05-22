@@ -545,6 +545,113 @@
         <option name="FOREGROUND" value="cc7832" />
       </value>
     </option>
+    <option name="KOTLIN_ABSTRACT_CLASS">
+      <value>
+        <option name="FOREGROUND" value="4896ff" />
+      </value>
+    </option>
+    <option name="KOTLIN_ANNOTATION">
+      <value>
+        <option name="FOREGROUND" value="bbb529" />
+      </value>
+    </option>
+    <option name="KOTLIN_ARROW">
+      <value>
+        <option name="FOREGROUND" value="ffff00" />
+      </value>
+    </option>
+    <option name="KOTLIN_BACKING_FIELD_VARIABLE">
+      <value>
+        <option name="FOREGROUND" value="cc7832" />
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="KOTLIN_BRACES">
+      <value>
+        <option name="FOREGROUND" value="ffff00" />
+      </value>
+    </option>
+    <option name="KOTLIN_CLASS">
+      <value>
+        <option name="FOREGROUND" value="9600" />
+      </value>
+    </option>
+    <option name="KOTLIN_CONSTRUCTOR">
+      <value>
+        <option name="FOREGROUND" value="9600" />
+      </value>
+    </option>
+    <option name="KOTLIN_ENUM_ENTRY">
+      <value>
+        <option name="FOREGROUND" value="9876aa" />
+      </value>
+    </option>
+    <option name="KOTLIN_EXTENSION_FUNCTION_CALL">
+      <value>
+        <option name="FOREGROUND" value="c8c8" />
+        <option name="FONT_TYPE" value="3" />
+      </value>
+    </option>
+    <option name="KOTLIN_EXTENSION_PROPERTY">
+      <value>
+        <option name="FOREGROUND" value="c8c8" />
+        <option name="FONT_TYPE" value="2" />
+      </value>
+    </option>
+    <option name="KOTLIN_FUNCTION_CALL">
+      <value />
+    </option>
+    <option name="KOTLIN_FUNCTION_LITERAL_BRACES_AND_ARROW">
+      <value>
+        <option name="FOREGROUND" value="4896ff" />
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="KOTLIN_LABEL">
+      <value>
+        <option name="FOREGROUND" value="ff64ff" />
+      </value>
+    </option>
+    <option name="KOTLIN_LOCAL_VARIABLE">
+      <value>
+        <option name="FOREGROUND" value="ff64ff" />
+      </value>
+    </option>
+    <option name="KOTLIN_NAMED_ARGUMENT">
+      <value>
+        <option name="FOREGROUND" value="ff64ff" />
+      </value>
+    </option>
+    <option name="KOTLIN_SAFE_ACCESS">
+      <value>
+        <option name="FOREGROUND" value="cc7832" />
+      </value>
+    </option>
+    <option name="KOTLIN_SEMICOLON">
+      <value>
+        <option name="FOREGROUND" value="cc7832" />
+      </value>
+    </option>
+    <option name="KOTLIN_SMART_CAST_RECEIVER">
+      <value>
+        <option name="BACKGROUND" value="306090" />
+      </value>
+    </option>
+    <option name="KOTLIN_SMART_CAST_VALUE">
+      <value>
+        <option name="BACKGROUND" value="306090" />
+      </value>
+    </option>
+    <option name="KOTLIN_SMART_CONSTANT">
+      <value>
+        <option name="BACKGROUND" value="306090" />
+      </value>
+    </option>
+    <option name="KOTLIN_TRAIT">
+      <value>
+        <option name="FOREGROUND" value="c8c8" />
+      </value>
+    </option>
     <option name="LABEL">
       <value>
         <option name="FONT_TYPE" value="2" />
