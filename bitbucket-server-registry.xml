@@ -1,6 +1,10 @@
 <application>
   <component name="BitbucketServerRegistry">
-    <instances />
-    <lookup />
+    <instances>
+      <instance uuid="75bb5833-777c-4acf-99ba-f7043ec3e7b1" baseUri="http://bitbucket.devlee.org/" />
+    </instances>
+    <lookup>
+      <record scheme="ssh" hostname="bitbucket.devlee.org" port="7999" path="/" uuid="75bb5833-777c-4acf-99ba-f7043ec3e7b1" />
+    </lookup>
   </component>
 </application>
