@@ -40,7 +40,7 @@
       <emptyLine />
     </value>
   </option>
-  <option name="RIGHT_MARGIN" value="100" />
+  <option name="WRAP_WHEN_TYPING_REACHES_RIGHT_MARGIN" value="true" />
   <option name="JD_ALIGN_PARAM_COMMENTS" value="false" />
   <option name="JD_ALIGN_EXCEPTION_COMMENTS" value="false" />
   <option name="JD_DO_NOT_WRAP_ONE_LINE_COMMENTS" value="true" />
@@ -94,6 +94,7 @@
     <option name="VALUE_RESOURCE_FILE_SETTINGS">
       <value>
         <option name="INSERT_LINE_BREAKS_AROUND_STYLE" value="false" />
+        <option name="WRAP_ATTRIBUTES" value="2" />
       </value>
     </option>
   </AndroidXmlCodeStyleSettings>
