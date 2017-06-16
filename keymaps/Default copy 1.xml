@@ -15,6 +15,7 @@
   <action id="Bitbucket.OpenFileInBitbucket">
     <keyboard-shortcut first-keystroke="shift alt x" second-keystroke="o" />
   </action>
+  <action id="EditorPasteFromX11" />
   <action id="FindPrevious">
     <keyboard-shortcut first-keystroke="shift f3" />
   </action>
