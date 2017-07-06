@@ -40,7 +40,7 @@
       <emptyLine />
     </value>
   </option>
-  <option name="WRAP_WHEN_TYPING_REACHES_RIGHT_MARGIN" value="true" />
+  <option name="RIGHT_MARGIN" value="130" />
   <option name="JD_ALIGN_PARAM_COMMENTS" value="false" />
   <option name="JD_ALIGN_EXCEPTION_COMMENTS" value="false" />
   <option name="JD_DO_NOT_WRAP_ONE_LINE_COMMENTS" value="true" />
