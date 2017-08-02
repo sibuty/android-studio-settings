@@ -14,8 +14,8 @@
       <mask>*.css</mask>
       <mask>*.mxml</mask>
       <mask>*.gradle</mask>
-      <mask>build.gradle</mask>
       <mask>*.*</mask>
+      <mask>build.gradle</mask>
     </recentFileMasks>
   </component>
 </application>
