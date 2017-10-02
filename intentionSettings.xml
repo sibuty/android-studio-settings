@@ -1,5 +1,6 @@
 <application>
   <component name="IntentionManagerSettings">
     <ignoreAction name="Declaration/Wrap Vararg Arguments with Explicit Array Creation" />
+    <ignoreAction name="Java/Imports/Add On Demand Static Import" />
   </component>
 </application>
