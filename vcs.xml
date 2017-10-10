@@ -199,6 +199,10 @@
           <option name="userName" value="" />
         </UrlAndUserName>
         <UrlAndUserName>
+          <option name="url" value="http://git2.altarix.org" />
+          <option name="userName" value="igor.goryainov" />
+        </UrlAndUserName>
+        <UrlAndUserName>
           <option name="url" value="git@git2.altarix.org:marm-1.5/madi-android.git" />
           <option name="userName" value="" />
         </UrlAndUserName>

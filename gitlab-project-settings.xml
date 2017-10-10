@@ -1,0 +1,22 @@
+<application>
+  <component name="SettingsState">
+    <option name="host" value="https://git2.altarix.org" />
+    <option name="token" value="Lt7DpsMqxByCLYQNubZD" />
+    <option name="projects">
+      <list>
+        <ProjectDto>
+          <option name="httpUrl" value="http://git2.altarix.org/madi/madi2.git" />
+          <option name="name" value="madi2" />
+          <option name="namespace" value="madi" />
+          <option name="sshUrl" value="git@git2.altarix.org:madi/madi2.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://git2.altarix.org/marm-1.5/madi-android.git" />
+          <option name="name" value="madi-android" />
+          <option name="namespace" value="marm-1.5" />
+          <option name="sshUrl" value="git@git2.altarix.org:marm-1.5/madi-android.git" />
+        </ProjectDto>
+      </list>
+    </option>
+  </component>
+</application>
