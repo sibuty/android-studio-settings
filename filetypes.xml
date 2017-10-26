@@ -18,8 +18,6 @@
       <mapping ext="so" type="PLAIN_TEXT" />
       <mapping ext="cfg" type="PLAIN_TEXT" />
       <mapping ext="sqlite" type="PLAIN_TEXT" />
-      <mapping ext="ttf" type="PLAIN_TEXT" />
-      <mapping ext="otf" type="PLAIN_TEXT" />
       <removed_mapping ext="so" type="UNKNOWN" />
     </extensionMap>
   </component>
