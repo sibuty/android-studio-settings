@@ -9,7 +9,6 @@
   </component>
   <component name="FileTypeManager" version="17">
     <extensionMap>
-      <removed_mapping ext="otf" approved="true" type="Font" />
       <mapping pattern="mapbox-layer-style-tmp" type="JSON" />
       <mapping pattern="config" type="PLAIN_TEXT" />
       <mapping pattern="build_debug" type="PLAIN_TEXT" />
@@ -19,7 +18,6 @@
       <mapping ext="so" type="PLAIN_TEXT" />
       <mapping ext="cfg" type="PLAIN_TEXT" />
       <mapping ext="sqlite" type="PLAIN_TEXT" />
-      <mapping ext="otf" type="PLAIN_TEXT" />
       <removed_mapping ext="so" type="UNKNOWN" />
     </extensionMap>
   </component>
