@@ -306,6 +306,16 @@
         <option name="FOREGROUND" value="9876aa" />
       </value>
     </option>
+    <option name="DEFAULT_INSTANCE_METHOD">
+      <value>
+        <option name="FOREGROUND" value="ffc66d" />
+      </value>
+    </option>
+    <option name="DEFAULT_INTERFACE_NAME">
+      <value>
+        <option name="FOREGROUND" value="a9b7c6" />
+      </value>
+    </option>
     <option name="DEFAULT_INVALID_STRING_ESCAPE">
       <value>
         <option name="FOREGROUND" value="6a8759" />
@@ -510,6 +520,12 @@
         <option name="BACKGROUND" value="3865c9" />
       </value>
     </option>
+    <option name="INLINE_PARAMETER_HINT">
+      <value>
+        <option name="FOREGROUND" value="7a7a7a" />
+        <option name="BACKGROUND" value="373ca7" />
+      </value>
+    </option>
     <option name="INSTANCE_FIELD_ATTRIBUTES">
       <value>
         <option name="FOREGROUND" value="9876aa" />
@@ -561,6 +577,20 @@
         <option name="FOREGROUND" value="cc7832" />
       </value>
     </option>
+    <option name="KDOC_LINK">
+      <value>
+        <option name="FOREGROUND" value="6d671f" />
+        <option name="FONT_TYPE" value="3" />
+      </value>
+    </option>
+    <option name="KDOC_TAG_NAME">
+      <value>
+        <option name="FOREGROUND" value="526d4a" />
+        <option name="FONT_TYPE" value="3" />
+        <option name="EFFECT_COLOR" value="526d4a" />
+        <option name="EFFECT_TYPE" value="1" />
+      </value>
+    </option>
     <option name="KOTLIN_ABSTRACT_CLASS">
       <value>
         <option name="FOREGROUND" value="4896ff" />
@@ -595,6 +625,12 @@
     <option name="KOTLIN_CONSTRUCTOR">
       <value>
         <option name="FOREGROUND" value="9600" />
+      </value>
+    </option>
+    <option name="KOTLIN_DOC_COMMENT">
+      <value>
+        <option name="FOREGROUND" value="629755" />
+        <option name="FONT_TYPE" value="2" />
       </value>
     </option>
     <option name="KOTLIN_ENUM_ENTRY">
