@@ -1,8 +1,8 @@
 <scheme name="NewFont" version="142" parent_scheme="Default">
-  <option name="FONT_SCALE" value="1.25" />
-  <option name="EDITOR_FONT_SIZE" value="17" />
+  <option name="FONT_SCALE" value="1.0" />
+  <option name="EDITOR_FONT_SIZE" value="16" />
   <option name="CONSOLE_FONT_NAME" value="Source Code Pro" />
-  <option name="CONSOLE_FONT_SIZE" value="14" />
+  <option name="CONSOLE_FONT_SIZE" value="11" />
   <option name="EDITOR_QUICK_DOC_FONT_SIZE" value="X_LARGE" />
   <option name="EDITOR_FONT_NAME" value="Source Code Pro" />
   <colors>
@@ -512,12 +512,6 @@
     <option name="INJECTED_LANGUAGE_FRAGMENT">
       <value>
         <option name="BACKGROUND" value="364135" />
-      </value>
-    </option>
-    <option name="INLINE_PARAMETER_HINT">
-      <value>
-        <option name="FOREGROUND" value="2b2b2b" />
-        <option name="BACKGROUND" value="3865c9" />
       </value>
     </option>
     <option name="INLINE_PARAMETER_HINT">
