@@ -9,6 +9,8 @@
   </component>
   <component name="FileTypeManager" version="17">
     <extensionMap>
+      <mapping pattern="projects_development.json" type="JSON" />
+      <mapping pattern="projects_development" type="JSON" />
       <mapping pattern="mapbox-layer-style-tmp" type="JSON" />
       <mapping pattern="config" type="PLAIN_TEXT" />
       <mapping pattern="build_debug" type="PLAIN_TEXT" />
