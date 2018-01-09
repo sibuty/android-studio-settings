@@ -4,7 +4,6 @@
     <option name="blueTo" value="76" />
     <option name="customBamImageFolder" value="C:\Program Files\Android\Android Studio\jre\jre\bin" />
     <option name="customFlameImageFolder" value="C:\Program Files\Android\Android Studio\jre\jre\bin" />
-    <option name="enabled" value="false" />
     <option name="flameLife" value="2001" />
     <option name="frameRate" value="60" />
     <option name="gravityFactor" value="20.27" />
