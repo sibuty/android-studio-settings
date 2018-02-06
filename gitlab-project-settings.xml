@@ -11,6 +11,12 @@
           <option name="sshUrl" value="git@git2.altarix.org:mes/android/imind-sample.git" />
         </ProjectDto>
         <ProjectDto>
+          <option name="httpUrl" value="http://git2.altarix.org/igor.goryainov/mvi-sample.git" />
+          <option name="name" value="mvi-sample" />
+          <option name="namespace" value="igor.goryainov" />
+          <option name="sshUrl" value="git@git2.altarix.org:igor.goryainov/mvi-sample.git" />
+        </ProjectDto>
+        <ProjectDto>
           <option name="httpUrl" value="http://git2.altarix.org/madi/classifier.git" />
           <option name="name" value="classifier" />
           <option name="namespace" value="madi" />
