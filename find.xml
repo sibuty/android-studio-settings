@@ -2,15 +2,8 @@
   <component name="FindSettings">
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
-    <option name="regularExpressions" value="true" />
-    <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.kt" />
     <recentFileMasks>
-      <mask>build.gradle</mask>
-      <mask>*.k</mask>
-      <mask>*.ktб</mask>
-      <mask>*.kt//</mask>
       <mask>*.kt/</mask>
       <mask>*.Jkt</mask>
       <mask>*.JAkt</mask>
@@ -29,14 +22,18 @@
       <mask>*.JA</mask>
       <mask>*.JAV</mask>
       <mask>*.JAVA</mask>
-      <mask>*.java</mask>
-      <mask>*.jav</mask>
-      <mask>*.ja</mask>
       <mask>*.j</mask>
       <mask>*.ле</mask>
       <mask>*.л</mask>
-      <mask>*.</mask>
       <mask>*.kt</mask>
+      <mask>*.k</mask>
+      <mask>*.</mask>
+      <mask>*.ja</mask>
+      <mask>*.jav</mask>
+      <mask>*.java</mask>
+      <mask>*.x</mask>
+      <mask>*.xm</mask>
+      <mask>*.xml</mask>
     </recentFileMasks>
   </component>
 </application>
