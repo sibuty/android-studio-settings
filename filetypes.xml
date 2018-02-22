@@ -13,7 +13,6 @@
       <mapping pattern="projects_development" type="JSON" />
       <mapping pattern="mapbox-layer-style-tmp" type="JSON" />
       <mapping pattern="config" type="PLAIN_TEXT" />
-      <mapping pattern="update15.sql" type="PLAIN_TEXT" />
       <mapping pattern="build_debug" type="PLAIN_TEXT" />
       <mapping pattern="README" type="PLAIN_TEXT" />
       <mapping pattern="debug" type="PLAIN_TEXT" />
