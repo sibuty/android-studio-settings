@@ -6,8 +6,6 @@
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
     <recentFileMasks>
-      <mask>*.kt/</mask>
-      <mask>*.Jkt</mask>
       <mask>*.JAkt</mask>
       <mask>*.JAVkt</mask>
       <mask>*.JAVAkt</mask>
@@ -36,6 +34,8 @@
       <mask>*.x</mask>
       <mask>*.xm</mask>
       <mask>*.xml</mask>
+      <mask>*.p</mask>
+      <mask>*.pb</mask>
     </recentFileMasks>
   </component>
 </application>
