@@ -4,14 +4,14 @@
     <property name="created">2017-11-13T16:35:34</property>
     <property name="ide">AndroidStudio</property>
     <property name="ideVersion">3.0.0.18</property>
-    <property name="modified">2017-11-13T16:35:55</property>
+    <property name="modified">2018-03-29T14:31:04</property>
     <property name="originalScheme">NewFont copy</property>
   </metaInfo>
   <option name="EDITOR_FONT_SIZE" value="17" />
+  <option name="EDITOR_FONT_NAME" value="Source Code Pro" />
   <option name="CONSOLE_FONT_NAME" value="Source Code Pro" />
   <option name="CONSOLE_FONT_SIZE" value="15" />
   <option name="EDITOR_QUICK_DOC_FONT_SIZE" value="X_LARGE" />
-  <option name="EDITOR_FONT_NAME" value="Source Code Pro" />
   <colors>
     <option name="ADDED_LINES_COLOR" value="295622" />
     <option name="ANNOTATIONS_COLOR" value="8b999f" />
