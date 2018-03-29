@@ -2,8 +2,8 @@
   <option name="FONT_SCALE" value="1.25" />
   <option name="EDITOR_FONT_SIZE" value="17" />
   <option name="EDITOR_FONT_NAME" value="Roboto Mono" />
-  <option name="CONSOLE_FONT_NAME" value="Source Code Pro" />
-  <option name="CONSOLE_FONT_SIZE" value="18" />
+  <option name="CONSOLE_FONT_NAME" value="Roboto Mono" />
+  <option name="CONSOLE_FONT_SIZE" value="14" />
   <option name="EDITOR_QUICK_DOC_FONT_SIZE" value="X_LARGE" />
   <colors>
     <option name="ADDED_LINES_COLOR" value="295622" />
