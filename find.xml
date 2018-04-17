@@ -4,7 +4,6 @@
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
     <recentFileMasks>
-      <mask>*.JAkt</mask>
       <mask>*.JAVkt</mask>
       <mask>*.JAVAkt</mask>
       <mask>*.javakt</mask>
@@ -34,6 +33,7 @@
       <mask>*.xml</mask>
       <mask>*.p</mask>
       <mask>*.pb</mask>
+      <mask>*.so</mask>
     </recentFileMasks>
   </component>
 </application>
