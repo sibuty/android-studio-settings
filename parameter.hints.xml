@@ -3,6 +3,5 @@
     <blacklists>
       <blacklist language="Java" />
     </blacklists>
-    <option id="SHOW_LAMBDA_IMPLICIT_PARAMETER_RECEIVER" value="false" />
   </component>
 </application>
