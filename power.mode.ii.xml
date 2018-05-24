@@ -2,8 +2,8 @@
   <component name="PowerModeII">
     <option name="blueFrom" value="76" />
     <option name="blueTo" value="76" />
-    <option name="customBamImageFolder" value="C:\Program Files\Android\Android Studio\jre\jre\bin" />
-    <option name="customFlameImageFolder" value="C:\Program Files\Android\Android Studio\jre\jre\bin" />
+    <option name="customBamImageFolder" value="$USER_HOME$/C:\Program Files\Android\Android Studio\jre\jre\bin" />
+    <option name="customFlameImageFolder" value="$USER_HOME$/C:\Program Files\Android\Android Studio\jre\jre\bin" />
     <option name="flameLife" value="2001" />
     <option name="frameRate" value="60" />
     <option name="gravityFactor" value="20.27" />
@@ -15,7 +15,7 @@
     <option name="redFrom" value="76" />
     <option name="redTo" value="76" />
     <option name="shakeRange" value="2" />
-    <option name="soundsFolder" value="C:\Users\Игорь\C:\Users\Игорь" />
+    <option name="soundsFolder" value="$USER_HOME$/C:\Users\Игорь\C:\Users\Игорь" />
     <option name="sparkLife" value="5000" />
     <option name="sparkSize" value="5" />
     <option name="sparkVelocityFactor" value="5.07" />
