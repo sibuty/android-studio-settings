@@ -100,6 +100,12 @@
           <option name="namespace" value="marm-1.5" />
           <option name="sshUrl" value="git@git2.altarix.org:marm-1.5/starter-kit.git" />
         </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://git2.altarix.org/gibdd.project/gibdd_2016.git" />
+          <option name="name" value="Gibdd2016" />
+          <option name="namespace" value="ГИБДД" />
+          <option name="sshUrl" value="git@git2.altarix.org:gibdd.project/gibdd_2016.git" />
+        </ProjectDto>
       </list>
     </option>
   </component>
