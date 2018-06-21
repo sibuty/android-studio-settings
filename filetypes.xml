@@ -20,6 +20,7 @@
       <mapping ext="so" type="PLAIN_TEXT" />
       <mapping ext="cfg" type="PLAIN_TEXT" />
       <mapping ext="sqlite" type="PLAIN_TEXT" />
+      <mapping ext="jks" type="PLAIN_TEXT" />
       <mapping pattern="update15" type="SQL" />
       <removed_mapping ext="so" type="UNKNOWN" />
       <mapping ext="fnc" type="DBN-PSQL" />
