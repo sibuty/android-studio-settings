@@ -15,6 +15,7 @@
       <mapping pattern="config" type="PLAIN_TEXT" />
       <mapping pattern="build_debug" type="PLAIN_TEXT" />
       <mapping pattern="README" type="PLAIN_TEXT" />
+      <mapping pattern="view" type="PLAIN_TEXT" />
       <mapping pattern="debug" type="PLAIN_TEXT" />
       <mapping ext="crt" type="PLAIN_TEXT" />
       <mapping ext="so" type="PLAIN_TEXT" />
