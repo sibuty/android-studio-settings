@@ -278,6 +278,10 @@
           <option name="url" value="https://github.com/sibuty/supaGraphView" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://android.googlesource.com/platform/packages/apps/Launcher3" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="$USER_HOME$/projects" />
