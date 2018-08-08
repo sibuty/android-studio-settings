@@ -302,6 +302,10 @@
           <option name="url" value="http://bitbucket.appspress.ru" />
           <option name="userName" value="goryainov" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://sibuty@bitbucket.org/Valeri4Kowalskii/weather.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="C:\_projects\StudioProjects" />
