@@ -2,6 +2,9 @@
   <component name="ParameterNameHintsSettings">
     <blacklists>
       <blacklist language="Java" />
+      <blacklist language="Kotlin">
+        <added pattern="ru.appspress.common.model.system.preferences.delegate.findPreferences(key,defaultValue)" />
+      </blacklist>
     </blacklists>
     <option id="SHOW_PROPERTY_HINT" value="true" />
     <option id="SHOW_FUNCTION_HINT" value="true" />
