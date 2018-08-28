@@ -1,9 +1,11 @@
 <application>
   <component name="BitbucketServerRegistry">
     <instances>
+      <instance uuid="4ea31a79-5413-4bf4-97bd-82bb5efc6c59" baseUri="https://bitbucket.appspress.ru/" />
       <instance uuid="75bb5833-777c-4acf-99ba-f7043ec3e7b1" baseUri="http://bitbucket.devlee.org/" />
     </instances>
     <lookup>
+      <record scheme="https" hostname="bitbucket.appspress.ru" port="-1" path="/" uuid="4ea31a79-5413-4bf4-97bd-82bb5efc6c59" />
       <record scheme="ssh" hostname="bitbucket.devlee.org" port="7999" path="/" uuid="75bb5833-777c-4acf-99ba-f7043ec3e7b1" />
     </lookup>
   </component>
