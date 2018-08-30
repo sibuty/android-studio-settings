@@ -2,13 +2,9 @@
   <component name="FindSettings">
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
-    <option name="regularExpressions" value="true" />
-    <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.png" />
     <recentFileMasks>
-      <mask>*.JAVkt</mask>
-      <mask>*.JAVAkt</mask>
-      <mask>*.javakt</mask>
       <mask>*.java.kt</mask>
       <mask>*.java. kt</mask>
       <mask>*.java. *kt</mask>
@@ -36,6 +32,9 @@
       <mask>*.p</mask>
       <mask>*.pb</mask>
       <mask>*.so</mask>
+      <mask>*.*</mask>
+      <mask>*.jgp</mask>
+      <mask>*.png</mask>
     </recentFileMasks>
   </component>
 </application>
