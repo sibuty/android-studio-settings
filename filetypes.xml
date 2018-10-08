@@ -10,20 +10,18 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping pattern="projects_development.json" type="JSON" />
-      <mapping pattern="projects_development" type="JSON" />
       <mapping pattern="mapbox-layer-style-tmp" type="JSON" />
-      <mapping pattern="config" type="PLAIN_TEXT" />
-      <mapping pattern="build_debug" type="PLAIN_TEXT" />
+      <mapping pattern="projects_development" type="JSON" />
+      <mapping pattern="debug" type="PLAIN_TEXT" />
       <mapping pattern="README" type="PLAIN_TEXT" />
       <mapping pattern="view" type="PLAIN_TEXT" />
-      <mapping pattern="debug" type="PLAIN_TEXT" />
+      <mapping pattern="config" type="PLAIN_TEXT" />
+      <mapping pattern="build_debug" type="PLAIN_TEXT" />
       <mapping ext="crt" type="PLAIN_TEXT" />
-      <mapping ext="so" type="PLAIN_TEXT" />
       <mapping ext="cfg" type="PLAIN_TEXT" />
       <mapping ext="sqlite" type="PLAIN_TEXT" />
       <mapping ext="jks" type="PLAIN_TEXT" />
       <mapping pattern="update15" type="SQL" />
-      <removed_mapping ext="so" type="UNKNOWN" />
       <mapping ext="fnc" type="DBN-PSQL" />
       <mapping ext="pkb" type="DBN-PSQL" />
       <mapping ext="pkg" type="DBN-PSQL" />
