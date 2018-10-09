@@ -5,12 +5,6 @@
       <path value="Main Toolbar" />
       <option name="myInitialPosition" value="-1" />
     </group>
-    <group value="Stop" is_action="true" action_type="-1" position="6">
-      <path value="root" />
-      <path value="Main Toolbar" />
-      <path value="Toolbar Run Actions" />
-      <option name="myInitialPosition" value="-1" />
-    </group>
     <group seperator="true" action_type="-1" position="5">
       <path value="root" />
       <path value="Main Toolbar" />
@@ -42,6 +36,12 @@
       <path value="Navigation Bar Toolbar" />
       <path value="NavBarVcsGroup" />
       <path value="VcsNavBarToobarActions" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group seperator="true" action_type="-1" position="0">
+      <path value="root" />
+      <path value="Main Toolbar" />
+      <path value="Toolbar Run Actions" />
       <option name="myInitialPosition" value="-1" />
     </group>
     <group seperator="true" action_type="-1" position="0">
@@ -103,12 +103,6 @@
       <path value="Navigation Bar Toolbar" />
       <path value="NavBarVcsGroup" />
       <path value="VcsNavBarToobarActions" />
-      <option name="myInitialPosition" value="-1" />
-    </group>
-    <group value="Stop" is_action="true" action_type="1" position="3">
-      <path value="root" />
-      <path value="Main Toolbar" />
-      <path value="Toolbar Run Actions" />
       <option name="myInitialPosition" value="-1" />
     </group>
     <group value="Git.Fetch" is_action="true" action_type="1" position="3">
