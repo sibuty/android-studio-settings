@@ -2,38 +2,8 @@
   <component name="FindSettings">
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
+    <option name="localCaseSensitive" value="true" />
+    <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <recentFileMasks>
-      <mask>*.java.kt</mask>
-      <mask>*.java. kt</mask>
-      <mask>*.java. *kt</mask>
-      <mask>*.java. *.kt</mask>
-      <mask>?</mask>
-      <mask>*ЮО</mask>
-      <mask>*Ю</mask>
-      <mask>*</mask>
-      <mask>*.J</mask>
-      <mask>*.JA</mask>
-      <mask>*.JAV</mask>
-      <mask>*.JAVA</mask>
-      <mask>*.j</mask>
-      <mask>*.ле</mask>
-      <mask>*.л</mask>
-      <mask>*.kt</mask>
-      <mask>*.k</mask>
-      <mask>*.</mask>
-      <mask>*.ja</mask>
-      <mask>*.jav</mask>
-      <mask>*.x</mask>
-      <mask>*.xm</mask>
-      <mask>*.xml</mask>
-      <mask>*.p</mask>
-      <mask>*.pb</mask>
-      <mask>*.so</mask>
-      <mask>*.*</mask>
-      <mask>*.jgp</mask>
-      <mask>*.png</mask>
-      <mask>*.java</mask>
-    </recentFileMasks>
   </component>
 </application>
