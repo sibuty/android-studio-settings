@@ -18,7 +18,11 @@
       <mapping pattern="debug" type="PLAIN_TEXT" />
       <mapping pattern="build_debug" type="PLAIN_TEXT" />
       <mapping pattern="README" type="PLAIN_TEXT" />
+      <mapping pattern="12345" type="PLAIN_TEXT" />
+      <mapping pattern="request_browser" type="PLAIN_TEXT" />
+      <mapping pattern="1234" type="PLAIN_TEXT" />
       <mapping pattern="view" type="PLAIN_TEXT" />
+      <mapping pattern="request_webview" type="PLAIN_TEXT" />
       <mapping ext="crt" type="PLAIN_TEXT" />
       <mapping ext="jks" type="PLAIN_TEXT" />
       <mapping ext="cfg" type="PLAIN_TEXT" />
