@@ -25,6 +25,8 @@
       <mapping pattern="1234" type="PLAIN_TEXT" />
       <mapping pattern="debug" type="PLAIN_TEXT" />
       <mapping pattern="ping_2" type="PLAIN_TEXT" />
+      <mapping pattern="t_2" type="PLAIN_TEXT" />
+      <mapping pattern="t_1" type="PLAIN_TEXT" />
       <mapping pattern="request_webview" type="PLAIN_TEXT" />
       <mapping ext="crt" type="PLAIN_TEXT" />
       <mapping ext="jks" type="PLAIN_TEXT" />
