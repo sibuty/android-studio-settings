@@ -15,6 +15,7 @@
       <mapping pattern="projects_development" type="JSON" />
       <mapping pattern="build_debug" type="PLAIN_TEXT" />
       <mapping pattern="debug" type="PLAIN_TEXT" />
+      <mapping pattern="8511_t_1" type="PLAIN_TEXT" />
       <mapping pattern="config" type="PLAIN_TEXT" />
       <mapping pattern="request_webview" type="PLAIN_TEXT" />
       <mapping pattern="12345" type="PLAIN_TEXT" />
@@ -22,6 +23,8 @@
       <mapping pattern="ping_2" type="PLAIN_TEXT" />
       <mapping pattern="ping_1" type="PLAIN_TEXT" />
       <mapping pattern="111" type="PLAIN_TEXT" />
+      <mapping pattern="883_t_2" type="PLAIN_TEXT" />
+      <mapping pattern="883_t_1" type="PLAIN_TEXT" />
       <mapping pattern="request_browser" type="PLAIN_TEXT" />
       <mapping pattern="5_t_1" type="PLAIN_TEXT" />
       <mapping pattern="123" type="PLAIN_TEXT" />
