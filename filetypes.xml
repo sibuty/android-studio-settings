@@ -27,6 +27,8 @@
       <mapping pattern="883_t_2" type="PLAIN_TEXT" />
       <mapping pattern="883_t_1" type="PLAIN_TEXT" />
       <mapping pattern="request_browser" type="PLAIN_TEXT" />
+      <mapping pattern="3" type="PLAIN_TEXT" />
+      <mapping pattern="2" type="PLAIN_TEXT" />
       <mapping pattern="5_t_1" type="PLAIN_TEXT" />
       <mapping pattern="123" type="PLAIN_TEXT" />
       <mapping pattern="1234" type="PLAIN_TEXT" />
