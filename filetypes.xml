@@ -13,6 +13,7 @@
       <mapping pattern="mapbox-layer-style-tmp" type="JSON" />
       <mapping pattern="projects_development.json" type="JSON" />
       <mapping pattern="projects_development" type="JSON" />
+      <mapping pattern="1" type="PLAIN_TEXT" />
       <mapping pattern="build_debug" type="PLAIN_TEXT" />
       <mapping pattern="debug" type="PLAIN_TEXT" />
       <mapping pattern="8511_t_1" type="PLAIN_TEXT" />
