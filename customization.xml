@@ -5,6 +5,11 @@
       <path value="Main Toolbar" />
       <option name="myInitialPosition" value="-1" />
     </group>
+    <group value="tasks.toolbar.group" is_group="true" action_type="-1" position="15">
+      <path value="root" />
+      <path value="Main Toolbar" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
     <group value="ToolbarRunGroup" is_group="true" action_type="-1" position="8">
       <path value="root" />
       <path value="Main Toolbar" />
@@ -141,7 +146,7 @@
       <path value="VCS Actions" />
       <option name="myInitialPosition" value="-1" />
     </group>
-    <group value="ShowSettings" is_action="true" action_type="1" position="16">
+    <group value="ShowSettings" is_action="true" action_type="1" position="15">
       <path value="root" />
       <path value="Main Toolbar" />
       <option name="myInitialPosition" value="-1" />
