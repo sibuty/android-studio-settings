@@ -10,26 +10,28 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping ext="klib" type="ARCHIVE" />
+      <mapping pattern="projects_development" type="JSON" />
       <mapping pattern="mapbox-layer-style-tmp" type="JSON" />
       <mapping pattern="projects_development.json" type="JSON" />
-      <mapping pattern="projects_development" type="JSON" />
-      <mapping pattern="1" type="PLAIN_TEXT" />
-      <mapping pattern="build_debug" type="PLAIN_TEXT" />
+      <mapping pattern="3" type="PLAIN_TEXT" />
+      <mapping pattern="ping_1" type="PLAIN_TEXT" />
       <mapping pattern="debug" type="PLAIN_TEXT" />
       <mapping pattern="8511_t_1" type="PLAIN_TEXT" />
       <mapping pattern="config" type="PLAIN_TEXT" />
+      <mapping pattern="build_debug" type="PLAIN_TEXT" />
       <mapping pattern="request_webview" type="PLAIN_TEXT" />
       <mapping pattern="12345" type="PLAIN_TEXT" />
       <mapping pattern="README" type="PLAIN_TEXT" />
       <mapping pattern="ping_2" type="PLAIN_TEXT" />
-      <mapping pattern="ping_1" type="PLAIN_TEXT" />
+      <mapping pattern="file" type="PLAIN_TEXT" />
       <mapping pattern="111" type="PLAIN_TEXT" />
       <mapping pattern="883_t_2" type="PLAIN_TEXT" />
       <mapping pattern="883_t_1" type="PLAIN_TEXT" />
       <mapping pattern="request_browser" type="PLAIN_TEXT" />
-      <mapping pattern="3" type="PLAIN_TEXT" />
-      <mapping pattern="2" type="PLAIN_TEXT" />
       <mapping pattern="5_t_1" type="PLAIN_TEXT" />
+      <mapping pattern="file2" type="PLAIN_TEXT" />
+      <mapping pattern="2" type="PLAIN_TEXT" />
+      <mapping pattern="1" type="PLAIN_TEXT" />
       <mapping pattern="123" type="PLAIN_TEXT" />
       <mapping pattern="1234" type="PLAIN_TEXT" />
       <mapping pattern="t_2" type="PLAIN_TEXT" />
