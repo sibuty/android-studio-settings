@@ -1,0 +1,19 @@
+<application>
+  <component name="BitbucketCloudRegistry">
+    <lookup>
+      <record scheme="https" hostname="bitbucket.org" port="-1" instance="Production" />
+      <record scheme="ssh" hostname="bitbucket.org" port="-1" instance="Production" />
+    </lookup>
+  </component>
+  <component name="BitbucketServerRegistry">
+    <instances>
+      <instance uuid="fffc7ba3-fc67-37ff-9687-b5121180de93" baseUri="http://bitbucket.devlee.org:80/" />
+      <instance uuid="0d2e9b07-0d46-35d5-8774-841cb415274f" baseUri="https://bitbucket.appspress.ru:443/" />
+    </instances>
+    <lookup>
+      <record scheme="https" hostname="bitbucket.appspress.ru" port="-1" path="/" uuid="0d2e9b07-0d46-35d5-8774-841cb415274f" />
+      <record scheme="ssh" hostname="bitbucket.devlee.org" port="7999" path="/" uuid="fffc7ba3-fc67-37ff-9687-b5121180de93" />
+    </lookup>
+  </component>
+  <component name="Instance" id="79f21301-cf79-4772-af37-ad9ef1ad421f" version="6.3" />
+</application>
