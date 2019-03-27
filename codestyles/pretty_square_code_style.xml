@@ -36,6 +36,7 @@
     </value>
   </option>
   <option name="RIGHT_MARGIN" value="130" />
+  <option name="WRAP_WHEN_TYPING_REACHES_RIGHT_MARGIN" value="true" />
   <option name="JD_ALIGN_PARAM_COMMENTS" value="false" />
   <option name="JD_ALIGN_EXCEPTION_COMMENTS" value="false" />
   <option name="JD_DO_NOT_WRAP_ONE_LINE_COMMENTS" value="true" />
@@ -78,6 +79,7 @@
   <option name="PARAMETER_ANNOTATION_WRAP" value="1" />
   <option name="VARIABLE_ANNOTATION_WRAP" value="1" />
   <option name="ENUM_CONSTANTS_WRAP" value="1" />
+  <option name="SOFT_MARGINS" value="130" />
   <AndroidXmlCodeStyleSettings>
     <option name="USE_CUSTOM_SETTINGS" value="true" />
     <option name="LAYOUT_SETTINGS">
