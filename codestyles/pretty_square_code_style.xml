@@ -136,7 +136,6 @@
   </JavaCodeStyleSettings>
   <JetCodeStyleSettings>
     <option name="WRAP_EXPRESSION_BODY_FUNCTIONS" value="1" />
-    <option name="WRAP_ELVIS_EXPRESSIONS" value="2" />
   </JetCodeStyleSettings>
   <MarkdownNavigatorCodeStyleSettings>
     <option name="RIGHT_MARGIN" value="72" />
