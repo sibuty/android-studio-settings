@@ -14,34 +14,35 @@
       <mapping pattern="projects_development.json" type="JSON" />
       <mapping pattern="3" type="PLAIN_TEXT" />
       <mapping pattern="build_debug" type="PLAIN_TEXT" />
+      <mapping pattern="111" type="PLAIN_TEXT" />
       <mapping pattern="debug" type="PLAIN_TEXT" />
       <mapping pattern="8511_t_1" type="PLAIN_TEXT" />
       <mapping pattern="config" type="PLAIN_TEXT" />
-      <mapping pattern="222" type="PLAIN_TEXT" />
-      <mapping pattern="1" type="PLAIN_TEXT" />
+      <mapping pattern="883_t_1" type="PLAIN_TEXT" />
+      <mapping pattern="ping_1" type="PLAIN_TEXT" />
       <mapping pattern="request_webview" type="PLAIN_TEXT" />
       <mapping pattern="12345" type="PLAIN_TEXT" />
       <mapping pattern="README" type="PLAIN_TEXT" />
       <mapping pattern="ping_2" type="PLAIN_TEXT" />
+      <mapping pattern="view" type="PLAIN_TEXT" />
       <mapping pattern="file" type="PLAIN_TEXT" />
-      <mapping pattern="111" type="PLAIN_TEXT" />
       <mapping pattern="883_t_2" type="PLAIN_TEXT" />
-      <mapping pattern="883_t_1" type="PLAIN_TEXT" />
+      <mapping pattern="222" type="PLAIN_TEXT" />
       <mapping pattern="request_browser" type="PLAIN_TEXT" />
+      <mapping pattern="5_t_1" type="PLAIN_TEXT" />
       <mapping pattern="file2" type="PLAIN_TEXT" />
       <mapping pattern="2" type="PLAIN_TEXT" />
-      <mapping pattern="5_t_1" type="PLAIN_TEXT" />
-      <mapping pattern="ping_1" type="PLAIN_TEXT" />
+      <mapping pattern="1" type="PLAIN_TEXT" />
       <mapping pattern="123" type="PLAIN_TEXT" />
       <mapping pattern="1234" type="PLAIN_TEXT" />
       <mapping pattern="t_2" type="PLAIN_TEXT" />
       <mapping pattern="t_1" type="PLAIN_TEXT" />
-      <mapping pattern="view" type="PLAIN_TEXT" />
       <mapping ext="crt" type="PLAIN_TEXT" />
       <mapping ext="cfg" type="PLAIN_TEXT" />
       <mapping ext="jks" type="PLAIN_TEXT" />
       <mapping ext="sqlite" type="PLAIN_TEXT" />
       <mapping pattern="update15" type="SQL" />
+      <mapping pattern="kek" type="YAML" />
       <mapping ext="fnc" type="DBN-PSQL" />
       <mapping ext="pkb" type="DBN-PSQL" />
       <mapping ext="pkg" type="DBN-PSQL" />
