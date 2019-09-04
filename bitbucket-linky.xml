@@ -15,5 +15,5 @@
       <record scheme="ssh" hostname="bitbucket.devlee.org" port="7999" path="/" uuid="fffc7ba3-fc67-37ff-9687-b5121180de93" />
     </lookup>
   </component>
-  <component name="Instance" id="79f21301-cf79-4772-af37-ad9ef1ad421f" version="7.3" />
+  <component name="Instance" id="79f21301-cf79-4772-af37-ad9ef1ad421f" version="7.4" />
 </application>
